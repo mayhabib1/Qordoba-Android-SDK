@@ -1,4 +1,4 @@
-# Intro to the Android iOS SDK
+# Intro to the Qordoba Android SDK
 
 
 Qordoba's SDK enables agile, intelligent internationalization for native Android applications. Benefits of localizing via an SDK versus file-based methods include:
